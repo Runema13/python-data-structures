@@ -4,8 +4,8 @@ Este repositório contém os exercícios e projetos desenvolvidos durante o curs
 
 ## ✅ Progresso no curso
 - [x] Módulo 1 – Capitulo 6 - Strings e processamento de texto
-- [ ] Módulo 2 – Instalação e detalhes do curso
-- [ ] Módulo 3 – Capitulo 7 - Manipulação de Strings
+- [x] Módulo 2 – Instalação e detalhes do curso
+- [x] Módulo 3 – Capitulo 7 - Manipulação de Strings
 - [ ] Módulo 4 – Capitulo 8 - Lists, list e strings e list manipulation
 - [ ] Módulo 5 – Capitulo 9 - Dictionaries, contando com dictionaries e dictionaries e files
 - [ ] Módulo 6 – Capitulo 10 - Tuples
