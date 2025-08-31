@@ -19,3 +19,6 @@ Este repositório contém os exercícios e projetos desenvolvidos durante o curs
 
 ## 🔗 Referência
 Curso: [Python Data Structures (Coursera)](https://www.coursera.org/learn/python-data)
+
+## Certificado
+(Link do certificado Coursera ou nota que foi auditado)
