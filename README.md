@@ -3,11 +3,13 @@
 Este repositório contém os exercícios e projetos desenvolvidos durante o curso **Python Data Structures**, parte da especialização *Python for Everybody* da Universidade de Michigan (Coursera).
 
 ## ✅ Progresso no curso
-- [x] Módulo 1 – Strings e processamento de texto
-- [ ] Módulo 2 – Listas e tuplas
-- [ ] Módulo 3 – Dicionários
-- [ ] Módulo 4 – Conjuntos e manipulação de dados
-- [ ] Módulo 5 – Projeto final
+- [x] Módulo 1 – Capitulo 6 - Strings e processamento de texto
+- [ ] Módulo 2 – Instalação e detalhes do curso
+- [ ] Módulo 3 – Capitulo 7 - Manipulação de Strings
+- [ ] Módulo 4 – Capitulo 8 - Lists, list e strings e list manipulation
+- [ ] Módulo 5 – Capitulo 9 - Dictionaries, contando com dictionaries e dictionaries e files
+- [ ] Módulo 6 – Capitulo 10 - Tuples
+- [ ] Módulo 7 – Capitulo 11 - Graduation
 
 ## 📂 Estrutura dos arquivos
 - `exercicios/` → códigos resolvidos de cada módulo
