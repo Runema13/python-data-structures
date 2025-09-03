@@ -1,1 +1,1 @@
-"# Exerc°cios do curso" 
+"# Exerc√≠cios do curso" 
