@@ -8,8 +8,8 @@ Este repositório contém os exercícios e projetos desenvolvidos durante o curs
 - [x] Módulo 3 – Capitulo 7 - Manipulação de Strings
 - [x] Módulo 4 – Capitulo 8 - Lists, list e strings e list manipulation
 - [x] Módulo 5 – Capitulo 9 - Dictionaries, contando com dictionaries e dictionaries e files
-- [ ] Módulo 6 – Capitulo 10 - Tuples
-- [ ] Módulo 7 – Capitulo 11 - Graduation
+- [X] Módulo 6 – Capitulo 10 - Tuples
+- [X] Módulo 7 – Capitulo 11 - Graduation
 
 ## 📂 Estrutura dos arquivos
 - `exercicios/` → códigos resolvidos de cada módulo
@@ -21,4 +21,4 @@ Este repositório contém os exercícios e projetos desenvolvidos durante o curs
 Curso: [Python Data Structures (Coursera)](https://www.coursera.org/learn/python-data)
 
 ## Certificado
-(Link do certificado Coursera ou nota que foi auditado)
+[(Link do certificado Coursera ou nota que foi auditado)](https://www.coursera.org/account/accomplishments/records/F21Q5OW8LKZO)
