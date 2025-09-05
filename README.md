@@ -13,7 +13,6 @@ Este repositório contém os exercícios e projetos desenvolvidos durante o curs
 
 ## 📂 Estrutura dos arquivos
 - `exercicios/` → códigos resolvidos de cada módulo
-- `projetos/` → projetos mais elaborados
 
 ---
 
